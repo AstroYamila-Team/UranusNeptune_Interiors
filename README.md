@@ -4,14 +4,14 @@ This repository contains links to the data presented in our paper: 'A Paradigm S
 
 The files with the data produced in this work and used to make the plots are:
 
-Neptune_ice_rock_reos.dat: Interior models found for Neptune 'ice+rock' model, using REOS+M19 water eos.
+Neptune_ice_rock_reos.csv: Interior models found for Neptune 'ice+rock' model, using REOS+M19 water eos.
 
-Neptune_ice_rock_ses.dat: Interior models found for Neptune 'ice+rock' model, using Sesame water eos.
+Neptune_ice_rock_ses.csv: Interior models found for Neptune 'ice+rock' model, using Sesame water eos.
 
-Neptune_iceonly_reos.dat: Interior models found for Neptune 'ice-only' model, using REOS+M19 water eos.
+Neptune_iceonly_reos.csv: Interior models found for Neptune 'ice-only' model, using REOS+M19 water eos.
 
-Uranus_ice_rock_reos.dat: Interior models found for Uranus 'ice+rock' model, using REOS+M19 water eos.
+Uranus_ice_rock_reos.csv: Interior models found for Uranus 'ice+rock' model, using REOS+M19 water eos.
 
-Uranus_ice_rock_ses.dat: Interior models found for Uranus 'ice+rock' model, using Sesame water eos.
+Uranus_ice_rock_ses.csv: Interior models found for Uranus 'ice+rock' model, using Sesame water eos.
 
-Uranus_iceonly_reos.dat: Interior models found for Uranus 'ice-only' model, using REOS+M19 water eos.
+Uranus_iceonly_reos.csv: Interior models found for Uranus 'ice-only' model, using REOS+M19 water eos.
