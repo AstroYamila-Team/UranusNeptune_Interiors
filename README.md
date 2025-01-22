@@ -16,7 +16,7 @@ Uranus_ice_rock_ses.csv: Interior models found for Uranus 'ice+rock' model, usin
 
 Uranus_iceonly_reos.csv: Interior models found for Uranus 'ice-only' model, using REOS+M19 water eos.
 
-Column units:
+COLUMN UNITS
 
 mcore: Earth mass
 
